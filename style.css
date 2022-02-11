@@ -20,10 +20,10 @@ body {
   text-transform: normal;
 }
 
-/* img {
+img {
   width: 100%;
   height: 200px;
-} */
+} 
 #mainNews {
   display: flex;
   flex-wrap: wrap;
